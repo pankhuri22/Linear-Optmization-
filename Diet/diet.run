@@ -1,0 +1,7 @@
+reset;
+model diet.mod;
+data diet.dat;
+solve;
+display profit;
+
+

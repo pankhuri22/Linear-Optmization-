@@ -1,0 +1,5 @@
+reset;
+model minimum.mod;
+data min.dat;
+solve;
+display X,tc;
