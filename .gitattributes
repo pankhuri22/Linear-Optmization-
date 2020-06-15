@@ -1,5 +1,2 @@
-* text=auto
 *.rb linguist-language=R
-# *.R linguist-vendored
 
-CHANGELOG.md export-ignore
