@@ -1,5 +1,5 @@
 * text=auto
-*.ampl linguist-vendored
-*.R linguist-vendored
+*.rb linguist-language=R
+# *.R linguist-vendored
 
 CHANGELOG.md export-ignore
